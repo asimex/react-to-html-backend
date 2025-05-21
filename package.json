@@ -1,0 +1,33 @@
+{
+  "name": "react-to-html-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@babel/parser": "^7.27.2",
+    "@babel/preset-env": "^7.27.2",
+    "@babel/preset-react": "^7.27.1",
+    "@babel/register": "^7.27.1",
+    "@babel/traverse": "^7.27.1",
+    "archiver": "^7.0.1",
+    "child_process": "^1.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "express-session": "^1.18.1",
+    "fs-extra": "^11.3.0",
+    "js-beautify": "^1.15.4",
+    "passport": "^0.7.0",
+    "passport-github2": "^0.1.12",
+    "puppeteer": "^24.9.0",
+    "simple-git": "^3.27.0",
+    "wait-on": "^8.0.3"
+  }
+}

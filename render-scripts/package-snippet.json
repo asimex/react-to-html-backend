@@ -1,0 +1,6 @@
+{
+    "scripts": {
+ "generateroute": "node generateRoutes.js",
+    "rendermultiple": "node puppeteer-multiple.js"
+    }
+  }
